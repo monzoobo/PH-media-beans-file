@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "Hello fellow media bean and welcome to this depository. If you want further intel regarding the purpose and organisation of it, plase take a look at the README file. xoxo"
+        pr-message: "Thanks for sending your first request, i'll take a look asap !"
