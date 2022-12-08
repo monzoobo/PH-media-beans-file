@@ -9,7 +9,7 @@ This file is containing all the organized, often reworked and selected elements 
 
 <ins>License :</ins>
 
-All the documents here are free to use in the context of Pandemic Horde's media production an affiliated works. If you plan on using them for other projects, please credit the authors if you can and put a link to this page in which they will be credited for their work.
+All the documents here are free to use in the context of Pandemic Horde's media production an affiliated works. If you plan on using them for other projects, please credit the authors if you find their name and put a link to this page in which they will be credited for their work.
 
 <ins>Contribution :</ins>
 
