@@ -9,7 +9,7 @@ This file is containing all the organized, often reworked and selected elements 
   - Quimms, former sig leader, she had started a similar project of which this one is the spiritual heir, she sorted most of the rasterized pictures coming from the game engine ;
   - to be continued...
 
-Note : due to the age of some designs and the turnover inside the organisation, it is often hard to trace back where assets come from. If one of your design is displayed here please reach out to me so i can properly credit you.
+Note : due to the age of some designs and the turnover inside the organisation, it is often hard to trace back where assets come from. If one of your productions is displayed here please reach out to me so i can properly credit you.
 
 <h3><ins>License :</ins></h3>
 
