@@ -2,9 +2,9 @@
 This file is containing all the organized, often reworked and selected elements relating to the work of the group media beans up to date (2022) in order to harmonize its production and simplify its creative processes.
 
 <ins>Credits :</ins>
-  - Amber Chent-shi / Monzoobo, main contributor on the template and vectorial files, creator of this sorting project and the PHR project;
+  - Amber Chent-shi / Monzoobo, main contributor on the template and vectorial files, creator of this sorting project and the PHR project ;
   - Maximilian Azendorf, EVE ships' SVG files (see : https://github.com/MaximilianAzendorf/eve-ships) ;
-  - quimms, former sig leader, she had started a similar project of which this one is the spiritual heir, she sorted most of the rasterized pictures coming from the game engine ;
+  - Quimms, former sig leader, she had started a similar project of which this one is the spiritual heir, she sorted most of the rasterized pictures coming from the game engine ;
   - to be continued...
 
 <ins>License :</ins>
