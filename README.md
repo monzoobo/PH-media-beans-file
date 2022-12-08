@@ -9,6 +9,8 @@ This file is containing all the organized, often reworked and selected elements 
   - Quimms, former sig leader, she had started a similar project of which this one is the spiritual heir, she sorted most of the rasterized pictures coming from the game engine ;
   - to be continued...
 
+Note : due to the age of some designs and the turnover inside the organisation, it is often hard to trace back where assets come from. If one of your design is displayed here please reach out to me so i can properly credit you.
+
 <h3><ins>License :</ins></h3>
 
 All the documents here are free to use in the context of Pandemic Horde's media production an affiliated works. If you plan on using them for other projects, please credit the authors if you find their name and put a link to this page in which they will be credited for their work.
